@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <group android:checkableBehavior="single">
+    <item
+      android:id="@+id/home_layout"
+      android:icon="@drawable/ic_menu_camera"
+      android:title="Home" />
+    <item
+      android:id="@+id/schedule_layout"
+      android:icon="@drawable/ic_menu_camera"
+      android:title="Scheduler" />
+    <item
+      android:id="@+id/money_layout"
+      android:icon="@drawable/ic_menu_camera"
+      android:title="Money" />
+    <item
+      android:id="@+id/contract_layout"
+      android:icon="@drawable/ic_menu_gallery"
+      android:title="Contract" />
+  </group>
+</menu>

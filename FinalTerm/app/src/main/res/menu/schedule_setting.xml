@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+    android:id="@+id/schedule_add"
+    android:orderInCategory="100"
+    android:title="@string/schedule_add"
+    app:showAsAction="never" />
+  <item
+    android:id="@+id/schedule_del"
+    android:orderInCategory="100"
+    android:title="@string/schedule_del"
+    app:showAsAction="never" />
+  <item
+    android:id="@+id/schedule_settings"
+    android:orderInCategory="100"
+    android:title="@string/schedule_settings"
+    app:showAsAction="never" />
+</menu>
